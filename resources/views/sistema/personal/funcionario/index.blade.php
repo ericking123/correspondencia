@@ -40,7 +40,7 @@
                         <th scope="col"> EMAIL </th>
                         <th scope="col"> CARGO </th>
                         <th scope="col"> ROL DESIGNADO </th>
-                        <th scope="col"> ESTADO </th>
+                        <th scope="col"> ESTADO del personal </th>
                     </tr>
                 </thead>
 
